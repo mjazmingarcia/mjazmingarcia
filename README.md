@@ -13,6 +13,6 @@
 
 ### ✍️ Life Motto
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=%22%C2%BFCon+qu%C3%A9+he+de+irme%3F%0D%0A%C2%BFNada+dejar%C3%A9+en+pos+de+m%C3%AD+sobre+la+tierra%3F%0D%0A%C2%BFC%C3%B3mo+ha+de+actuar+mi+coraz%C3%B3n%3F%0D%0A%C2%BFAcaso+en+vano+venimos+a+vivir%2C%0D%0Aa+brotar+sobre+la+tierra%3F%0D%0ADejemos+al+menos+flores%0D%0ADejemos+al+menos+cantos%22&author=Nezahualcóyotl)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Dejemos+al+menos+flores.+Dejemos+al+menos+cantos.&author=Nezahualcóyotl)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
