@@ -1,5 +1,5 @@
 <div align="center" style="position: relative;"> 
-    <img alt="glimmer mushroom" src="https://cdn.dribbble.com/users/2249962/screenshots/6346612/20190305___2.gif"/>
+    <img alt="glimmer mushroom" src="https://cdn.dribbble.com/users/2249962/screenshots/6359024/20190306_1.gif"/>
     <img alt= "Name and title" style="position: absolute; top: 90%; left: 50%; transform: translate(-50%, -50%)" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDAE&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Monica;Web+Developer;B.Sc.+in+Physics">
 </div>
 
